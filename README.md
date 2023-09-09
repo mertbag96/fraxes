@@ -1,2 +1,2 @@
-# fraxes
-Fraxes is an e-commerce platform on clothing
+# Fraxes
+Fraxes is an e-commerce platform on clothing.
